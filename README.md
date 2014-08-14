@@ -1,3 +1,3 @@
-I just run this with a simple python server on the terminal
+Run this with python on the terminal
 
 	python -m SimpleHTTPServer
