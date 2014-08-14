@@ -1,11 +1,18 @@
 body {
     padding: 60px 0;
 }
+.navbar-inverse {
+	background: #333;
+}
 .brand {
     font-size: 21px;
     color: #FFFFFF;
     display: block;
     padding: 9px 0px;
+}
+.brand:hover {
+	text-decoration: none;
+	color: #FFFFFF;
 }
 .square {
     width: 33px;

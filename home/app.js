@@ -4,7 +4,7 @@ Home = Backbone.View.extend({
         var that = this;
         $.get(this.template + "/index.html", function(template) {
             var data = {
-                "title": "Tic Tac Toe Games in Progress",
+                "title": "Tic-Tac-Toe Games in Progress",
                 "games": [{
                     "id": 1,
                     "player1": "Eric Morgan",
